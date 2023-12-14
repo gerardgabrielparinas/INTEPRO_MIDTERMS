@@ -1,0 +1,42 @@
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.exe
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.deps.json
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.runtimeconfig.json
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.runtimeconfig.dev.json
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\ref\Parinas - INTEPRO_MidtermMP.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.pdb
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas___INTEPRO_MidtermMP.Login.resources
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas___INTEPRO_MidtermMP.NewAcct.resources
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.csproj.CopyComplete
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\ref\Parinas - INTEPRO_MidtermMP.dll
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.pdb
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas - INTEPRO_MidtermMP.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas___INTEPRO_MidtermMP.Main.resources
+C:\Users\gabriel\Desktop\Parinas - INTEPRO_MidtermMP\obj\Debug\net5.0-windows\Parinas___INTEPRO_MidtermMP.ResetPWD.resources
